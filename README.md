@@ -21,12 +21,8 @@ The language of classical mechanics is calculus, along with differential geometr
 
 Here is a good starter for calculus: [Calculus Made Easy by Silvanus P. Thompson]  (http://calculusmadeeasy.org/)
 
+For differential geometry: [Functional Differential Geometry by Gerald Jay Sussman and Jack Wisdom with Will Farr] (https://mitpress.mit.edu/books/functional-differential-geometry,  download the pdf here:  https://www.dropbox.com/s/t3si4b99ijqyhyk/9580.pdf?dl=1 )
 
-If you are interested in classical mechanics in general but find this
-book a little too deep to jump into as a first step (as it was for
-me), I'd like to suggest the following courses, in order:
-
-Prologue
 
 1. High level To whet your appetite: [Physics I: Classical Mechanics by Walter Lewin]
 (http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/)
